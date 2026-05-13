@@ -10,7 +10,7 @@ Get live fixtures, group standings, squads, bracket state, match events, and der
 
 **A token is coming.**
 
-CA: `[TO BE ANNOUNCED]`
+CA: `ErwW6AnSnAPA54JDWxuWsNFfNeWmNNJ47ptyoRzRpump`
 
 Fees generated through the platform will be accumulated during the lead-up period while we finalize the launch of the betting website. Once the site opens with the official CA token, accumulated fees will be distributed to holders. Stay tuned for the official announcement.
 
